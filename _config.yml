@@ -116,7 +116,7 @@ analytics:
 # Site Author
 author:
   name             : "Theodore Kim"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/2693fb7d-0e4e-4734-b61d-33da5eafca8b.jpg"
   bio              : "Korean **racing** driver."
   location         : "Jeju, South Korean"
   email            :
